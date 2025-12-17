@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_name,city,market,product_code,product_name,variant,category,quantity,price,revenue
+1001,2024-02-17,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,1,475.89,475.89
+1002,2024-01-25,136,Energy Gym 8,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,15,214.68,3220.2000000000003
+1003,2024-10-01,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,74,212.77,15744.980000000001
+1004,2024-03-05,148,Power Up 10,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,82,116.68,9567.76
+1005,2024-10-13,113,Iron Works 8,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,58,445.43,25834.94
+1006,2024-05-14,139,Iron Works 1,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,19,306.8,5829.2
+1007,2024-01-02,118,HealthyLife 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,14,446.63,6252.82
+1008,2024-02-03,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,62,137.0,8494.0
+1009,2024-06-18,120,HealthyLife 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,8,231.57,1852.56
+1010,2024-04-04,121,Fit Food 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,50,243.39,12169.5
+1011,2024-12-06,119,HealthyLife 1,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,49,331.09,16223.409999999998
+1012,2024-05-14,134,Muscle Beach 2,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,53,85.92,4553.76
+1013,2024-12-30,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,45,75.42,3393.9
+1014,2024-05-06,146,Vegan Market 9,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,56,87.48,4898.88
+1015,2024-02-23,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,34,146.62,4985.08
+1016,2024-05-29,147,Vegan Market 5,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,8,296.92,2375.36
+1017,2024-09-15,122,Cardio King 4,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,84,468.07,39317.88
+1018,2024-04-06,137,Energy Gym 1,Antalya,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,52,98.16,5104.32
+1019,2024-08-25,143,Power Up 9,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,14,231.9,3246.6
+1020,2024-04-21,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,54,446.78,24126.12
+1021,2024-11-29,124,HealthyLife 3,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,90,105.06,9455.4
+1022,2024-10-06,149,HealthyLife 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,61,440.95,26897.95
+1023,2024-02-26,128,Muscle Beach 1,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,97,61.19,5935.429999999999
+1024,2024-12-19,107,HealthyLife 2,Antalya,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,46,122.2,5621.2
+1025,2024-08-29,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,21,343.09,7204.889999999999
+1026,2024-01-09,135,CrossFit Zone 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,12,305.18,3662.16
+1027,2024-05-19,142,Energy Gym 2,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,67,447.29,29968.43
+1028,2024-06-09,136,Energy Gym 8,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,96,496.1,47625.600000000006
+1029,2024-12-24,133,Yoga Studio 10,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,74,27.31,2020.9399999999998
+1030,2024-01-03,999,Unknown Customer,Unknown City,,4f5c11403f7e2f88,Whey Powder,1kg,Snack,1,184.6,184.6
+1031,2024-05-12,139,Iron Works 1,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,81,145.32,11770.92
+1032,2024-04-27,149,HealthyLife 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,38,327.14,12431.32
+1033,2024-04-02,108,Yoga Studio 6,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,16,58.84,941.44
+1034,2024-03-03,132,Iron Works 9,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,59,398.88,23533.92
+1035,2024-03-18,148,Power Up 10,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,92,430.5,39606.0
+1036,2024-12-14,102,Fit Food 7,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,17,453.74,7713.58
+1037,2024-11-09,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,49,217.94,10679.06
+1038,2024-01-01,102,Fit Food 7,Antalya,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,27,90.09,2432.4300000000003
+1039,2024-12-16,126,Fit Food 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,86,366.48,31517.280000000002
+1040,2024-07-25,107,HealthyLife 2,Antalya,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,55,158.99,8744.45
+1041,2024-01-29,135,CrossFit Zone 10,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,37,462.91,17127.670000000002
+1042,2024-06-08,110,HealthyLife 7,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,65,136.76,8889.4
+1043,2024-06-01,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,53,302.98,16057.94
+1044,2024-10-15,127,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,95,48.42,4599.900000000001
+1045,2024-08-06,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,500ml,Supplement,99,144.31,14286.69
+1046,2024-10-07,138,Energy Gym 9,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,13,205.82,2675.66
+1047,2024-01-25,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,41,37.12,1521.9199999999998
+1048,2024-07-06,137,Energy Gym 1,Antalya,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,61,418.12,25505.32
+1049,2024-12-21,139,Iron Works 1,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,97,79.42,7703.74
+1050,2024-08-14,112,Energy Gym 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,28,423.07,11845.96
+1051,2024-12-27,132,Iron Works 9,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,100,391.44,39144.0
+1052,2024-03-24,107,HealthyLife 2,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,11,368.92,4058.1200000000003
+1053,2024-12-19,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,1,390.94,390.94
+1054,2024-10-15,109,CrossFit Zone 7,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,98,273.45,26798.1
+1055,2024-11-13,128,Muscle Beach 1,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,4,185.06,740.24
+1056,2024-04-10,143,Power Up 9,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,79,119.22,9418.38
+1057,2024-03-12,135,CrossFit Zone 10,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,63,106.37,6701.31
+1058,2024-05-10,142,Energy Gym 2,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,37,80.73,2987.01
+1059,2024-08-18,134,Muscle Beach 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,6,378.01,2268.06
+1060,2024-05-25,113,Iron Works 8,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,5,90.61,453.05
+1061,2024-03-06,133,Yoga Studio 10,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,51,32.03,1633.53
+1062,2024-05-17,104,Vegan Market 6,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,71,131.08,9306.68
+1063,2024-11-19,125,Vegan Market 7,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,43,136.34,5862.62
+1064,2024-07-27,124,HealthyLife 3,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,43,101.79,4376.97
+1065,2024-10-16,115,Energy Gym 9,Bursa,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,15,223.01,3345.1499999999996
+1066,2024-07-05,101,Fit Food 5,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,87,442.54,38500.98
+1067,2024-07-06,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,1,122.01,122.01
+1068,2024-02-21,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,500ml,Supplement,7,464.77,3253.39
+1069,2024-10-22,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,28,35.32,988.96
+1070,2024-05-24,111,Muscle Beach 3,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,62,480.7,29803.399999999998
+1071,2024-11-08,137,Energy Gym 1,Antalya,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,81,297.02,24058.62
+1072,2024-08-30,101,Fit Food 5,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,58,396.66,23006.280000000002
+1073,2024-10-14,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,49,346.89,16997.61
+1074,2024-02-14,148,Power Up 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,82,382.19,31339.579999999998
+1075,2024-02-19,122,Cardio King 4,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,90,193.7,17433.0
+1076,2024-11-18,150,Power Up 7,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,1,238.22,238.22
+1077,2024-10-21,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,21,250.11,5252.31
+1078,2024-02-09,145,Vegan Market 5,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,83,493.24,40938.92
+1079,2024-11-29,145,Vegan Market 5,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,12,260.19,3122.2799999999997
+1080,2024-03-02,102,Fit Food 7,Antalya,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,11,421.24,4633.64
+1081,2024-10-08,139,Iron Works 1,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,36,405.24,14588.64
+1082,2024-10-20,130,Fit Food 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,39,39.65,1546.35
+1083,2024-07-20,109,CrossFit Zone 7,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,52,116.19,6041.88
+1084,2024-02-12,116,Energy Gym 6,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,49,496.52,24329.48
+1085,2024-05-06,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,89,246.33,21923.370000000003
+1086,2024-08-01,139,Iron Works 1,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,58,149.77,8686.66
+1087,2024-03-30,111,Muscle Beach 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,24,262.22,6293.280000000001
+1088,2024-05-18,111,Muscle Beach 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,62,334.18,20719.16
+1089,2024-09-28,144,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,83,129.0,10707.0
+1090,2024-01-16,125,Vegan Market 7,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,11,372.55,4098.05
+1091,2024-02-26,121,Fit Food 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,29,224.43,6508.47
+1092,2024-07-22,129,Cardio King 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,64,291.55,18659.2
+1093,2024-05-02,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,31,42.4,1314.3999999999999
+1094,2024-05-15,103,Cardio King 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,52,159.64,8301.279999999999
+1095,2024-08-11,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,8,317.74,2541.92
+1096,2024-07-03,141,Yoga Studio 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,32,471.28,15080.96
+1097,2024-11-17,133,Yoga Studio 10,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,8,169.92,1359.36
+1098,2024-05-09,120,HealthyLife 7,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,46,328.22,15098.12
+1099,2024-06-01,106,Fit Food 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,68,222.79,15149.72
+1100,2024-06-01,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,26,360.29,9367.54
+1101,2024-05-26,106,Fit Food 10,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,47,457.77,21515.19
+1102,2024-01-25,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,48,183.36,8801.28
+1103,2024-10-23,105,CrossFit Zone 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,5,413.56,2067.8
+1104,2024-03-31,114,Vegan Market 2,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,37,289.44,10709.28
+1105,2024-05-24,113,Iron Works 8,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,88,134.01,11792.88
+1106,2024-06-06,108,Yoga Studio 6,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,70,255.99,17919.3
+1107,2024-08-07,113,Iron Works 8,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,48,201.45,9669.599999999999
+1108,2024-10-21,144,Yoga Studio 4,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,91,303.18,27589.38
+1109,2024-01-15,128,Muscle Beach 1,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,46,146.6,6743.599999999999
+1110,2024-09-04,132,Iron Works 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,13,496.98,6460.74
+1111,2024-06-15,132,Iron Works 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,100,229.51,22951.0
+1112,2024-06-09,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,79,114.05,9009.949999999999
+1113,2024-12-15,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,60,444.22,26653.2
+1114,2024-07-29,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,27,83.62,2257.7400000000002
+1115,2024-05-15,116,Energy Gym 6,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,66,216.06,14259.960000000001
+1116,2024-08-14,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,60,248.22,14893.2
+1117,2024-08-17,121,Fit Food 2,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,58,237.66,13784.28
+1118,2024-01-21,999,Unknown Customer,Unknown City,,4f5c11403f7e2f88,Whey Powder,2kg,Snack,81,135.05,10939.050000000001
+1119,2024-04-27,136,Energy Gym 8,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,35,277.87,9725.45
+1120,2024-04-12,999,Unknown Customer,Unknown City,,4f5c11403f7e2f88,Whey Powder,500g,Snack,10,125.53,1255.3
+1121,2024-06-07,123,Vegan Market 7,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,66,391.71,25852.859999999997
+1122,2024-07-22,136,Energy Gym 8,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,95,465.57,44229.15
+1123,2024-01-31,116,Energy Gym 6,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,37,473.77,17529.489999999998
+1124,2024-05-16,101,Fit Food 5,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,34,381.78,12980.519999999999
+1125,2024-02-24,130,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,22,25.17,553.74
+1126,2024-11-23,122,Cardio King 4,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,19,351.22,6673.18
+1127,2024-03-10,127,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,64,148.24,9487.36
+1128,2024-04-27,124,HealthyLife 3,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,32,219.51,7024.32
+1129,2024-06-06,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,100,164.33,16433.0
+1130,2024-12-15,126,Fit Food 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,78,333.45,26009.1
+1131,2024-02-12,101,Fit Food 5,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,13,483.36,6283.68
+1132,2024-05-13,126,Fit Food 7,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,62,495.73,30735.260000000002
+1133,2024-06-05,150,Power Up 7,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,33,371.83,12270.39
+1134,2024-05-16,144,Yoga Studio 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,12,108.74,1304.8799999999999
+1135,2024-07-20,143,Power Up 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,96,298.89,28693.44
+1136,2024-11-18,144,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,52,109.93,5716.360000000001
+1137,2024-10-02,101,Fit Food 5,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,25,315.05,7876.25
+1138,2024-02-11,108,Yoga Studio 6,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,3,418.34,1255.02
+1139,2024-04-12,104,Vegan Market 6,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,25,64.34,1608.5
+1140,2024-01-23,999,Unknown Customer,Unknown City,,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,1,206.18,206.18
+1141,2024-01-27,138,Energy Gym 9,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,46,119.94,5517.24
+1142,2024-09-18,150,Power Up 7,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,84,72.21,6065.639999999999
+1143,2024-07-23,130,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,56,41.16,2304.96
+1144,2024-08-27,145,Vegan Market 5,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,1,323.71,323.71
+1145,2024-04-07,103,Cardio King 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,50,126.87,6343.5
+1146,2024-05-29,106,Fit Food 10,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,17,91.85,1561.4499999999998
+1147,2024-09-22,126,Fit Food 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,37,90.65,3354.05
+1148,2024-03-12,107,HealthyLife 2,Antalya,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,53,333.11,17654.83
+1149,2024-05-25,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,500ml,Supplement,90,274.31,24687.9
+1150,2024-01-06,101,Fit Food 5,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,53,145.14,7692.419999999999
+1151,2024-05-29,105,CrossFit Zone 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,3,239.22,717.66
+1152,2024-10-21,123,Vegan Market 7,Bursa,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,77,441.92,34027.840000000004
+1153,2024-08-15,110,HealthyLife 7,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,64,130.62,8359.68
+1154,2024-07-29,141,Yoga Studio 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,11,133.13,1464.4299999999998
+1155,2024-02-10,114,Vegan Market 2,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,76,449.57,34167.32
+1156,2024-06-29,120,HealthyLife 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,58,343.88,19945.04
+1157,2024-01-31,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,28,101.49,2841.72
+1158,2024-05-13,144,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,43,64.87,2789.4100000000003
+1159,2024-08-27,121,Fit Food 2,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,61,305.74,18650.14
+1160,2024-05-24,115,Energy Gym 9,Bursa,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,97,325.02,31526.94
+1161,2024-12-30,101,Fit Food 5,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,42,398.68,16744.56
+1162,2024-12-31,130,Fit Food 10,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,69,466.22,32169.18
+1163,2024-09-09,129,Cardio King 4,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,28,414.61,11609.08
+1164,2024-11-24,137,Energy Gym 1,Antalya,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,97,340.5,33028.5
+1165,2024-04-28,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,29,113.86,3301.94
+1166,2024-06-30,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,64,463.46,29661.44
+1167,2024-06-10,150,Power Up 7,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,22,146.18,3215.96
+1168,2024-11-06,144,Yoga Studio 4,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,69,278.03,19184.07
+1169,2024-12-14,135,CrossFit Zone 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,35,192.42,6734.7
+1170,2024-05-11,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,86,394.69,33943.34
+1171,2024-10-28,150,Power Up 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,74,195.7,14481.8
+1172,2024-02-17,132,Iron Works 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,60,288.86,17331.600000000002
+1173,2024-02-22,122,Cardio King 4,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,80,339.53,27162.399999999998
+1174,2024-11-24,133,Yoga Studio 10,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,5,313.02,1565.1
+1175,2024-11-23,119,HealthyLife 1,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,65,99.49,6466.849999999999
+1176,2024-11-20,145,Vegan Market 5,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,91,343.83,31288.53
+1177,2024-03-11,135,CrossFit Zone 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,56,109.38,6125.28
+1178,2024-06-07,130,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,11,341.66,3758.26
+1179,2024-09-04,116,Energy Gym 6,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,92,132.42,12182.64
+1180,2024-05-22,127,Yoga Studio 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,84,333.65,28026.6
+1181,2024-03-07,123,Vegan Market 7,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,91,33.04,3006.64
+1182,2024-12-03,147,Vegan Market 5,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,14,128.81,1803.3400000000001
+1183,2024-03-23,106,Fit Food 10,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,71,21.34,1515.14
+1184,2024-07-10,149,HealthyLife 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,22,241.45,5311.9
+1185,2024-05-24,124,HealthyLife 3,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,63,448.08,28229.039999999997
+1186,2024-04-16,119,HealthyLife 1,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,88,198.03,17426.64
+1187,2024-12-30,102,Fit Food 7,Antalya,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,5,213.77,1068.8500000000001
+1188,2024-01-22,141,Yoga Studio 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,82,154.12,12637.84
+1189,2024-05-31,131,Iron Works 1,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,66,394.27,26021.82
+1190,2024-01-08,101,Fit Food 5,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,33,134.49,4438.17
+1191,2024-10-05,122,Cardio King 4,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,46,97.76,4496.96
+1192,2024-09-15,123,Vegan Market 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,69,353.74,24408.06
+1193,2024-06-22,109,CrossFit Zone 7,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,73,295.29,21556.170000000002
+1194,2024-10-14,107,HealthyLife 2,Antalya,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,69,476.43,32873.67
+1195,2024-12-20,136,Energy Gym 8,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,55,167.54,9214.699999999999
+1196,2024-12-06,135,CrossFit Zone 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,10,418.76,4187.6
+1197,2024-05-09,132,Iron Works 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,76,311.45,23670.2
+1198,2024-09-03,150,Power Up 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,91,33.2,3021.2000000000003
+1199,2024-04-17,146,Vegan Market 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,79,458.35,36209.65
+1200,2024-08-23,103,Cardio King 8,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,72,54.02,3889.44
+1201,2024-01-25,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,18,179.79,3236.22
+1202,2024-09-17,149,HealthyLife 3,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,72,450.98,32470.56
+1203,2024-05-26,121,Fit Food 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,88,482.1,42424.8
+1204,2024-05-01,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,34,96.66,3286.44
+1205,2024-02-14,133,Yoga Studio 10,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,61,386.58,23581.379999999997
+1206,2024-08-25,120,HealthyLife 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,20,474.66,9493.2
+1207,2024-01-27,143,Power Up 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,39,162.74,6346.860000000001
+1208,2024-02-24,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,500ml,Supplement,72,98.99,7127.28
+1209,2024-01-02,112,Energy Gym 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,59,488.42,28816.780000000002
+1210,2024-08-07,117,Power Up 4,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,1,143.71,143.71
+1211,2024-04-26,141,Yoga Studio 10,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,95,349.08,33162.6
+1212,2024-05-04,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,10,30.54,305.4
+1213,2024-09-04,111,Muscle Beach 3,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,13,471.68,6131.84
+1214,2024-09-28,140,Yoga Studio 2,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,5,380.25,1901.25
+1215,2024-12-25,118,HealthyLife 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,25,180.1,4502.5
+1216,2024-01-29,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,82,378.37,31026.34
+1217,2024-11-05,143,Power Up 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,82,226.5,18573.0
+1218,2024-01-31,107,HealthyLife 2,Antalya,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,81,480.56,38925.36
+1219,2024-02-19,112,Energy Gym 10,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,75,322.84,24212.999999999996
+1220,2024-12-11,142,Energy Gym 2,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,25,408.62,10215.5
+1221,2024-04-18,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,58,346.63,20104.54
+1222,2024-03-31,150,Power Up 7,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,36,486.77,17523.72
+1223,2024-11-20,119,HealthyLife 1,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,35,489.68,17138.8
+1224,2024-04-01,111,Muscle Beach 3,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,41,10.57,433.37
+1225,2024-11-06,101,Fit Food 5,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,99,158.76,15717.24
+1226,2024-01-23,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,47,195.45,9186.15
+1227,2024-06-19,126,Fit Food 7,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,74,73.04,5404.96
+1228,2024-10-06,140,Yoga Studio 2,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,1,437.09,437.09
+1229,2024-04-30,147,Vegan Market 5,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,2,416.1,832.2
+1230,2024-08-24,132,Iron Works 9,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,41,283.58,11626.779999999999
+1231,2024-03-06,137,Energy Gym 1,Antalya,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,41,179.04,7340.639999999999
+1232,2024-06-15,113,Iron Works 8,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,52,412.39,21444.28
+1233,2024-04-30,127,Yoga Studio 4,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,88,222.75,19602.0
+1234,2024-10-30,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,6,166.71,1000.26
+1235,2024-10-24,121,Fit Food 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,35,67.35,2357.25
+1236,2024-11-28,146,Vegan Market 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,86,49.49,4256.14
+1237,2024-10-07,139,Iron Works 1,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,94,354.4,33313.6
+1238,2024-04-14,129,Cardio King 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,44,60.72,2671.68
+1239,2024-05-07,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,80,366.1,29288.0
+1240,2024-01-14,102,Fit Food 7,Antalya,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,27,209.27,5650.29
+1241,2024-11-06,138,Energy Gym 9,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,3,116.32,348.96
+1242,2024-09-29,999,Unknown Customer,Unknown City,,4f5c11403f7e2f88,Whey Powder,2kg,Snack,81,314.86,25503.66
+1243,2024-02-17,111,Muscle Beach 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,58,215.32,12488.56
+1244,2024-02-07,131,Iron Works 1,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,45,444.75,20013.75
+1245,2024-07-06,130,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,65,273.32,17765.8
+1246,2024-03-05,147,Vegan Market 5,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,68,98.9,6725.200000000001
+1247,2024-11-06,106,Fit Food 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,69,210.1,14496.9
+1248,2024-08-25,107,HealthyLife 2,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,77,62.79,4834.83
+1249,2024-12-11,119,HealthyLife 1,Bursa,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,85,409.18,34780.3
+1250,2024-06-14,143,Power Up 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,76,57.63,4379.88
+1251,2024-02-24,133,Yoga Studio 10,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,54,57.5,3105.0
+1252,2024-01-11,127,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,51,411.08,20965.079999999998
+1253,2024-12-21,147,Vegan Market 5,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,65,35.2,2288.0
+1254,2024-04-11,124,HealthyLife 3,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,81,430.76,34891.56
+1255,2024-08-25,126,Fit Food 7,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,69,98.35,6786.15
+1256,2024-09-10,132,Iron Works 9,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,41,480.61,19705.010000000002
+1257,2024-03-29,145,Vegan Market 5,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,7,250.73,1755.11
+1258,2024-07-04,103,Cardio King 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,43,345.41,14852.630000000001
+1259,2024-01-10,112,Energy Gym 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,73,407.72,29763.56
+1260,2024-04-03,117,Power Up 4,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,28,362.67,10154.76
+1261,2024-02-14,142,Energy Gym 2,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,80,437.44,34995.2
+1262,2024-01-28,111,Muscle Beach 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,70,462.42,32369.4
+1263,2024-11-17,141,Yoga Studio 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,86,490.79,42207.94
+1264,2024-02-18,135,CrossFit Zone 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,14,215.02,3010.28
+1265,2024-12-06,136,Energy Gym 8,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,94,409.2,38464.799999999996
+1266,2024-03-16,132,Iron Works 9,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,5,363.79,1818.95
+1267,2024-09-01,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,20,142.52,2850.4
+1268,2024-08-02,134,Muscle Beach 2,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,49,484.35,23733.15
+1269,2024-01-22,129,Cardio King 4,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,42,141.67,5950.139999999999
+1270,2024-01-23,124,HealthyLife 3,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,50,149.19,7459.5
+1271,2024-06-05,124,HealthyLife 3,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,48,299.33,14367.84
+1272,2024-03-20,102,Fit Food 7,Antalya,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,3,336.93,1010.79
+1273,2024-12-26,110,HealthyLife 7,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,7,122.97,860.79
+1274,2024-06-16,123,Vegan Market 7,Bursa,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,29,303.35,8797.150000000001
+1275,2024-03-02,138,Energy Gym 9,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,93,276.69,25732.17
+1276,2024-07-27,121,Fit Food 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,27,455.58,12300.66
+1277,2024-12-21,143,Power Up 9,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,31,236.35,7326.849999999999
+1278,2024-11-18,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,75,154.04,11553.0
+1279,2024-02-25,128,Muscle Beach 1,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,26,64.8,1684.8
+1280,2024-03-18,117,Power Up 4,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,51,135.75,6923.25
+1281,2024-04-06,131,Iron Works 1,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,1,443.75,443.75
+1282,2024-01-27,129,Cardio King 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,32,178.64,5716.48
+1283,2024-09-06,109,CrossFit Zone 7,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,43,374.04,16083.720000000001
+1284,2024-09-01,124,HealthyLife 3,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,49,168.73,8267.769999999999
+1285,2024-05-11,109,CrossFit Zone 7,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,53,28.34,1502.02
+1286,2024-02-29,105,CrossFit Zone 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,36,189.97,6838.92
+1287,2024-07-10,111,Muscle Beach 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,84,450.39,37832.76
+1288,2024-11-02,143,Power Up 9,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,26,103.94,2702.44
+1289,2024-03-06,118,HealthyLife 9,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,48,81.55,3914.3999999999996
+1290,2024-11-12,122,Cardio King 4,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,69,88.33,6094.7699999999995
+1291,2024-06-13,106,Fit Food 10,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,78,38.23,2981.9399999999996
+1292,2024-07-11,107,HealthyLife 2,Antalya,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,29,296.67,8603.43
+1293,2024-05-01,141,Yoga Studio 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,21,437.87,9195.27
+1294,2024-02-26,117,Power Up 4,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,10,481.89,4818.9
+1295,2024-07-13,109,CrossFit Zone 7,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,78,353.87,27601.86
+1296,2024-11-07,109,CrossFit Zone 7,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,13,43.21,561.73
+1297,2024-09-11,105,CrossFit Zone 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,96,388.51,37296.96
+1298,2024-03-25,142,Energy Gym 2,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,61,22.95,1399.95
+1299,2024-04-11,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,85,174.0,14790.0
+1300,2024-08-06,112,Energy Gym 10,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,13,441.99,5745.87
+1301,2024-10-14,102,Fit Food 7,Antalya,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,13,415.79,5405.27
+1302,2024-11-26,147,Vegan Market 5,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,28,196.82,5510.96
+1303,2024-02-12,112,Energy Gym 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,58,22.55,1307.9
+1304,2024-11-30,134,Muscle Beach 2,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,41,84.92,3481.7200000000003
+1305,2024-02-09,131,Iron Works 1,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,92,233.95,21523.399999999998
+1306,2024-10-09,145,Vegan Market 5,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,81,111.9,9063.9
+1307,2024-05-04,103,Cardio King 8,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,88,322.38,28369.44
+1308,2024-01-17,101,Fit Food 5,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,53,492.77,26116.809999999998
+1309,2024-07-29,117,Power Up 4,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,24,143.26,3438.24
+1310,2024-08-17,101,Fit Food 5,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,35,347.98,12179.300000000001
+1311,2024-11-29,116,Energy Gym 6,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,68,29.29,1991.72
+1312,2024-01-03,146,Vegan Market 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,89,110.54,9838.060000000001
+1313,2024-09-26,121,Fit Food 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,15,239.75,3596.25
+1314,2024-04-25,102,Fit Food 7,Antalya,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,22,193.48,4256.5599999999995
+1315,2024-07-20,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,60,65.46,3927.5999999999995
+1316,2024-05-29,110,HealthyLife 7,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,64,315.22,20174.08
+1317,2024-11-08,120,HealthyLife 7,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,87,345.08,30021.96
+1318,2024-03-23,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,61,350.94,21407.34
+1319,2024-11-17,110,HealthyLife 7,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,16,271.21,4339.36
+1320,2024-07-23,145,Vegan Market 5,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,16,240.89,3854.24
+1321,2024-03-21,150,Power Up 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,78,111.68,8711.04
+1322,2024-08-07,142,Energy Gym 2,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,19,347.31,6598.89
+1323,2024-11-07,139,Iron Works 1,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,49,168.46,8254.54
+1324,2024-10-23,103,Cardio King 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,72,337.23,24280.56
+1325,2024-08-01,108,Yoga Studio 6,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,74,279.24,20663.760000000002
+1326,2024-08-22,128,Muscle Beach 1,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,52,263.9,13722.8
+1327,2024-04-09,141,Yoga Studio 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,60,191.94,11516.4
+1328,2024-12-15,136,Energy Gym 8,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,84,419.11,35205.24
+1329,2024-11-29,146,Vegan Market 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,94,52.07,4894.58
+1330,2024-07-28,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,91,315.68,28726.88
+1331,2024-07-10,112,Energy Gym 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,76,496.3,37718.8
+1332,2024-03-04,136,Energy Gym 8,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,83,455.64,37818.119999999995
+1333,2024-11-09,123,Vegan Market 7,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,53,232.25,12309.25
+1334,2024-06-29,138,Energy Gym 9,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,71,304.31,21606.01
+1335,2024-03-20,107,HealthyLife 2,Antalya,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,75,319.15,23936.25
+1336,2024-07-31,136,Energy Gym 8,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,89,387.18,34459.020000000004
+1337,2024-06-03,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,52,309.62,16100.24
+1338,2024-11-18,133,Yoga Studio 10,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,90,387.27,34854.299999999996
+1339,2024-07-31,118,HealthyLife 9,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,64,323.58,20709.12
+1340,2024-10-04,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,50,262.46,13122.999999999998
+1341,2024-01-28,121,Fit Food 2,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,57,219.51,12512.07
+1342,2024-12-21,114,Vegan Market 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,2,172.6,345.2
+1343,2024-01-16,104,Vegan Market 6,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,54,345.73,18669.420000000002
+1344,2024-04-13,105,CrossFit Zone 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,79,104.55,8259.449999999999
+1345,2024-09-16,134,Muscle Beach 2,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,76,165.86,12605.36
+1346,2024-08-23,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,250ml,Supplement,95,439.55,41757.25
+1347,2024-03-20,141,Yoga Studio 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,33,423.91,13989.03
+1348,2024-10-12,105,CrossFit Zone 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,96,276.63,26556.48
+1349,2024-11-06,142,Energy Gym 2,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,42,103.11,4330.62
+1350,2024-03-16,999,Unknown Customer,Unknown City,,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,72,27.96,2013.1200000000001
+1351,2024-07-05,111,Muscle Beach 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,52,186.66,9706.32
+1352,2024-03-29,145,Vegan Market 5,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,99,155.94,15438.06
+1353,2024-11-25,141,Yoga Studio 10,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,52,230.9,12006.800000000001
+1354,2024-03-14,134,Muscle Beach 2,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,5,462.07,2310.35
+1355,2024-08-18,132,Iron Works 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,31,427.28,13245.679999999998
+1356,2024-01-13,119,HealthyLife 1,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,32,220.97,7071.04
+1357,2024-12-07,135,CrossFit Zone 10,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,38,323.16,12280.080000000002
+1358,2024-08-10,999,Unknown Customer,Unknown City,,4f5c11403f7e2f88,Whey Powder,2kg,Snack,83,336.67,27943.61
+1359,2024-08-23,107,HealthyLife 2,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,54,405.42,21892.68
+1360,2024-08-12,111,Muscle Beach 3,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,43,240.89,10358.269999999999
+1361,2024-03-26,115,Energy Gym 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,42,36.97,1552.74
+1362,2024-03-16,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,23,97.04,2231.92
+1363,2024-12-06,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,74,323.01,23902.739999999998
+1364,2024-05-28,135,CrossFit Zone 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,56,155.69,8718.64
+1365,2024-08-28,113,Iron Works 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,12,226.72,2720.64
+1366,2024-12-11,138,Energy Gym 9,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,69,125.26,8642.94
+1367,2024-05-17,146,Vegan Market 9,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,67,255.53,17120.51
+1368,2024-08-14,150,Power Up 7,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,56,118.44,6632.639999999999
+1369,2024-11-06,128,Muscle Beach 1,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,8,230.9,1847.2
+1370,2024-06-21,149,HealthyLife 3,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,57,85.26,4859.820000000001
+1371,2024-03-23,121,Fit Food 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,69,485.79,33519.51
+1372,2024-09-19,133,Yoga Studio 10,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,69,374.38,25832.22
+1373,2024-03-08,139,Iron Works 1,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,60,129.01,7740.599999999999
+1374,2024-12-26,140,Yoga Studio 2,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,100,266.59,26658.999999999996
+1375,2024-10-04,117,Power Up 4,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,11,313.84,3452.24
+1376,2024-05-17,128,Muscle Beach 1,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,81,219.75,17799.75
+1377,2024-05-16,133,Yoga Studio 10,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,92,495.49,45585.08
+1378,2024-03-03,129,Cardio King 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,66,495.94,32732.04
+1379,2024-11-25,106,Fit Food 10,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,7,45.37,317.59
+1380,2024-11-19,145,Vegan Market 5,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,10,92.9,929.0
+1381,2024-08-05,130,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,39,324.99,12674.61
+1382,2024-03-04,105,CrossFit Zone 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,74,35.45,2623.3
+1383,2024-05-18,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,19,415.79,7900.01
+1384,2024-08-29,131,Iron Works 1,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,6,87.35,524.0999999999999
+1385,2024-09-10,131,Iron Works 1,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,66,119.03,7855.9800000000005
+1386,2024-11-16,138,Energy Gym 9,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,10,139.9,1399.0
+1387,2024-07-25,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,69,70.4,4857.6
+1388,2024-09-04,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,60,498.68,29920.8
+1389,2024-01-12,105,CrossFit Zone 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,1,434.91,434.91
+1390,2024-04-12,116,Energy Gym 6,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,5,87.58,437.9
+1391,2024-09-15,122,Cardio King 4,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,16,407.39,6518.24
+1392,2024-03-13,111,Muscle Beach 3,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,93,424.3,39459.9
+1393,2024-10-22,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,53,468.77,24844.809999999998
+1394,2024-08-08,104,Vegan Market 6,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,46,429.17,19741.82
+1395,2024-09-19,129,Cardio King 4,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,94,277.11,26048.34
+1396,2024-10-21,117,Power Up 4,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,17,204.69,3479.73
+1397,2024-08-27,132,Iron Works 9,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,73,122.71,8957.83
+1398,2024-08-07,119,HealthyLife 1,Bursa,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,36,71.3,2566.7999999999997
+1399,2024-07-10,124,HealthyLife 3,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,22,379.9,8357.8
+1400,2024-03-12,124,HealthyLife 3,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,55,368.95,20292.25
+1401,2024-12-18,125,Vegan Market 7,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,52,367.19,19093.88
+1402,2024-03-16,133,Yoga Studio 10,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,67,198.26,13283.42
+1403,2024-02-29,110,HealthyLife 7,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,32,223.3,7145.6
+1404,2024-06-07,105,CrossFit Zone 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,91,50.85,4627.35
+1405,2024-10-30,139,Iron Works 1,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,27,71.5,1930.5
+1406,2024-05-25,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,61,390.62,23827.82
+1407,2024-07-08,101,Fit Food 5,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,95,487.04,46268.8
+1408,2024-09-01,138,Energy Gym 9,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,12,327.98,3935.76
+1409,2024-05-14,102,Fit Food 7,Antalya,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,17,115.01,1955.17
+1410,2024-08-16,139,Iron Works 1,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,94,174.03,16358.82
+1411,2024-07-10,118,HealthyLife 9,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,49,25.46,1247.54
+1412,2024-04-16,141,Yoga Studio 10,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,24,149.2,3580.7999999999997
+1413,2024-04-12,105,CrossFit Zone 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,5,279.86,1399.3000000000002
+1414,2024-06-08,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,38,311.89,11851.82
+1415,2024-11-09,999,Unknown Customer,Unknown City,,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,86,342.8,29480.8
+1416,2024-03-19,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,79,388.51,30692.29
+1417,2024-08-28,137,Energy Gym 1,Antalya,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,63,29.71,1871.73
+1418,2024-04-08,138,Energy Gym 9,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,86,193.68,16656.48
+1419,2024-10-08,110,HealthyLife 7,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,80,117.47,9397.6
+1420,2024-08-19,146,Vegan Market 9,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,49,297.78,14591.22
+1421,2024-07-08,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,63,252.38,15899.94
+1422,2024-01-18,123,Vegan Market 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,41,430.36,17644.760000000002
+1423,2024-06-21,103,Cardio King 8,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,100,432.62,43262.0
+1424,2024-04-07,106,Fit Food 10,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,77,180.93,13931.61
+1425,2024-10-30,146,Vegan Market 9,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,2,90.66,181.32
+1426,2024-04-01,139,Iron Works 1,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,23,467.64,10755.72
+1427,2024-09-06,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,4,280.2,1120.8
+1428,2024-09-18,999,Unknown Customer,Unknown City,,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,53,63.99,3391.4700000000003
+1429,2024-01-03,120,HealthyLife 7,Bursa,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,68,255.56,17378.08
+1430,2024-08-17,126,Fit Food 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,77,314.03,24180.309999999998
+1431,2024-05-10,120,HealthyLife 7,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,37,331.36,12260.32
+1432,2024-09-21,132,Iron Works 9,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,56,320.74,17961.440000000002
+1433,2024-05-27,121,Fit Food 2,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,27,153.15,4135.05
+1434,2024-07-10,121,Fit Food 2,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,25,299.92,7498.0
+1435,2024-10-21,122,Cardio King 4,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,1,370.7,370.7
+1436,2024-05-08,142,Energy Gym 2,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,16,368.73,5899.68
+1437,2024-06-04,127,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,27,20.11,542.97
+1438,2024-05-17,120,HealthyLife 7,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,80,291.61,23328.800000000003
+1439,2024-04-10,112,Energy Gym 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,27,379.42,10244.34
+1440,2024-04-29,128,Muscle Beach 1,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,28,246.74,6908.72
+1441,2024-02-07,149,HealthyLife 3,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,49,198.55,9728.95
+1442,2024-08-05,117,Power Up 4,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,45,36.91,1660.9499999999998
+1443,2024-02-04,126,Fit Food 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,90,152.69,13742.1
+1444,2024-12-09,146,Vegan Market 9,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,91,225.94,20560.54
+1445,2024-01-13,111,Muscle Beach 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,97,450.65,43713.049999999996
+1446,2024-01-08,116,Energy Gym 6,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,37,465.62,17227.94
+1447,2024-06-22,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,77,104.61,8054.97
+1448,2024-08-05,146,Vegan Market 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,5,95.55,477.75
+1449,2024-05-20,129,Cardio King 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,46,319.05,14676.300000000001
+1450,2024-01-29,129,Cardio King 4,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,34,493.83,16790.22
+1451,2024-12-27,144,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,60,117.92,7075.2
+1452,2024-04-03,147,Vegan Market 5,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,100,64.62,6462.0
+1453,2024-03-22,133,Yoga Studio 10,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,90,396.06,35645.4
+1454,2024-12-24,129,Cardio King 4,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,56,374.76,20986.559999999998
+1455,2024-07-16,111,Muscle Beach 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,57,161.06,9180.42
+1456,2024-05-19,128,Muscle Beach 1,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,27,260.71,7039.169999999999
+1457,2024-03-11,150,Power Up 7,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,13,51.41,668.3299999999999
+1458,2024-08-22,142,Energy Gym 2,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,85,458.62,38982.7
+1459,2024-11-13,140,Yoga Studio 2,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,74,137.64,10185.359999999999
+1460,2024-07-19,136,Energy Gym 8,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,88,401.38,35321.44
+1461,2024-03-05,115,Energy Gym 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,90,397.03,35732.7
+1462,2024-08-20,149,HealthyLife 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,16,198.99,3183.84
+1463,2024-07-22,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,38,37.39,1420.82
+1464,2024-10-22,125,Vegan Market 7,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,66,457.31,30182.46
+1465,2024-01-29,111,Muscle Beach 3,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,13,132.62,1724.06
+1466,2024-10-18,118,HealthyLife 9,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,84,261.51,21966.84
+1467,2024-06-05,129,Cardio King 4,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,45,490.97,22093.65
+1468,2024-06-14,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,42,26.3,1104.6000000000001
+1469,2024-04-20,127,Yoga Studio 4,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,15,274.6,4119.0
+1470,2024-06-03,120,HealthyLife 7,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,68,408.54,27780.72
+1471,2024-04-17,144,Yoga Studio 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,85,48.82,4149.7
+1472,2024-02-05,101,Fit Food 5,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,43,221.33,9517.19
+1473,2024-02-14,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,9,473.57,4262.13
+1474,2024-07-03,146,Vegan Market 9,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,97,87.06,8444.82
+1475,2024-04-05,122,Cardio King 4,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,69,276.78,19097.82
+1476,2024-12-02,123,Vegan Market 7,Bursa,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,3,371.9,1115.6999999999998
+1477,2024-12-13,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,97,219.22,21264.34
+1478,2024-04-27,111,Muscle Beach 3,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,30,140.9,4227.0
+1479,2024-08-19,111,Muscle Beach 3,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,70,53.67,3756.9
+1480,2024-05-28,105,CrossFit Zone 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,11,64.75,712.25
+1481,2024-04-11,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,250ml,Supplement,59,306.6,18089.4
+1482,2024-05-31,105,CrossFit Zone 9,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,3,467.5,1402.5
+1483,2024-10-31,103,Cardio King 8,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,5,108.38,541.9
+1484,2024-01-09,122,Cardio King 4,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,72,25.33,1823.7599999999998
+1485,2024-01-09,108,Yoga Studio 6,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,18,391.47,7046.460000000001
+1486,2024-10-26,124,HealthyLife 3,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,5,201.49,1007.45
+1487,2024-02-11,120,HealthyLife 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,54,246.41,13306.14
+1488,2024-10-23,139,Iron Works 1,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,53,496.98,26339.940000000002
+1489,2024-09-08,117,Power Up 4,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,2,220.34,440.68
+1490,2024-06-28,149,HealthyLife 3,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,54,20.8,1123.2
+1491,2024-12-19,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,22,388.75,8552.5
+1492,2024-04-12,134,Muscle Beach 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,75,326.98,24523.5
+1493,2024-07-09,131,Iron Works 1,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,32,104.32,3338.24
+1494,2024-05-13,114,Vegan Market 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,91,422.16,38416.560000000005
+1495,2024-01-24,102,Fit Food 7,Antalya,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,40,300.83,12033.199999999999
+1496,2024-11-20,101,Fit Food 5,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,57,138.23,7879.11
+1497,2024-05-19,115,Energy Gym 9,Bursa,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,39,150.64,5874.959999999999
+1498,2024-08-10,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,10,444.51,4445.1
+1499,2024-07-04,117,Power Up 4,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,46,252.58,11618.68
+1500,2024-12-20,110,HealthyLife 7,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,23,130.18,2994.1400000000003
+1501,2024-06-16,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,97,231.35,22440.95
+1502,2024-11-23,111,Muscle Beach 3,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,46,135.05,6212.3
+1503,2024-07-12,103,Cardio King 8,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,71,443.59,31494.89
+1504,2024-10-03,127,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,80,253.82,20305.6
+1505,2024-03-15,121,Fit Food 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,66,29.22,1928.52
+1506,2024-01-21,139,Iron Works 1,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,69,79.37,5476.530000000001
+1507,2024-06-10,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,90,46.1,4149.0
+1508,2024-12-29,140,Yoga Studio 2,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,51,359.83,18351.329999999998
+1509,2024-02-09,145,Vegan Market 5,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,55,91.47,5030.85
+1510,2024-10-14,119,HealthyLife 1,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,74,322.54,23867.960000000003
+1511,2024-12-16,138,Energy Gym 9,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,96,138.28,13274.880000000001
+1512,2024-06-11,118,HealthyLife 9,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,82,59.55,4883.099999999999
+1513,2024-02-29,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,5,388.36,1941.8000000000002
+1514,2024-11-14,111,Muscle Beach 3,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,76,190.96,14512.960000000001
+1515,2024-01-26,102,Fit Food 7,Antalya,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,10,23.31,233.1
+1516,2024-05-26,131,Iron Works 1,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,13,210.54,2737.02
+1517,2024-05-24,119,HealthyLife 1,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,42,155.86,6546.120000000001
+1518,2024-09-03,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,74,285.44,21122.56
+1519,2024-11-16,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,69,127.12,8771.28
+1520,2024-05-29,134,Muscle Beach 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,89,414.57,36896.729999999996
+1521,2024-11-11,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,84,66.11,5553.24
+1522,2024-05-29,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,58,494.11,28658.38
+1523,2024-07-31,146,Vegan Market 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,20,379.56,7591.2
+1524,2024-05-25,112,Energy Gym 10,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,62,461.3,28600.600000000002
+1525,2024-11-24,134,Muscle Beach 2,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,45,313.3,14098.5
+1526,2024-08-19,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,39,171.52,6689.280000000001
+1527,2024-09-04,122,Cardio King 4,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,12,81.98,983.76
+1528,2024-06-04,144,Yoga Studio 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,2,268.14,536.28
+1529,2024-04-01,128,Muscle Beach 1,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,79,438.18,34616.22
+1530,2024-07-27,114,Vegan Market 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,3,445.37,1336.1100000000001
+1531,2024-11-16,111,Muscle Beach 3,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,33,308.39,10176.869999999999
+1532,2024-11-01,121,Fit Food 2,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,8,21.34,170.72
+1533,2024-05-23,143,Power Up 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,8,248.53,1988.24
+1534,2024-12-01,146,Vegan Market 9,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,49,179.42,8791.58
+1535,2024-01-18,139,Iron Works 1,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,61,27.95,1704.95
+1536,2024-01-12,130,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,49,486.17,23822.33
+1537,2024-02-21,109,CrossFit Zone 7,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,92,326.82,30067.44
+1538,2024-10-24,110,HealthyLife 7,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,68,349.73,23781.64
+1539,2024-01-26,121,Fit Food 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,97,284.18,27565.46
+1540,2024-03-12,131,Iron Works 1,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,27,315.2,8510.4
+1541,2024-04-03,105,CrossFit Zone 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,42,417.34,17528.28
+1542,2024-09-21,101,Fit Food 5,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,53,313.58,16619.739999999998
+1543,2024-12-29,101,Fit Food 5,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,64,426.5,27296.0
+1544,2024-02-26,128,Muscle Beach 1,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,7,218.67,1530.6899999999998
+1545,2024-04-02,108,Yoga Studio 6,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,55,333.07,18318.85
+1546,2024-04-16,143,Power Up 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,62,29.69,1840.78
+1547,2024-02-01,146,Vegan Market 9,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,22,69.84,1536.48
+1548,2024-12-17,101,Fit Food 5,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,53,145.5,7711.5
+1549,2024-04-14,127,Yoga Studio 4,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,10,387.35,3873.5
+1550,2024-09-01,128,Muscle Beach 1,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,87,11.81,1027.47
+1551,2024-04-06,119,HealthyLife 1,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,5,49.23,246.14999999999998
+1552,2024-07-18,108,Yoga Studio 6,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,28,459.93,12878.04
+1553,2024-01-25,114,Vegan Market 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,52,415.43,21602.36
+1554,2024-05-25,129,Cardio King 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,56,109.36,6124.16
+1555,2024-01-11,108,Yoga Studio 6,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,9,489.51,4405.59
+1556,2024-04-12,129,Cardio King 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,7,179.42,1255.9399999999998
+1557,2024-03-05,147,Vegan Market 5,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,89,414.9,36926.1
+1558,2024-06-11,107,HealthyLife 2,Antalya,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,94,355.92,33456.48
+1559,2024-03-30,120,HealthyLife 7,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,40,36.74,1469.6000000000001
+1560,2024-09-22,129,Cardio King 4,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,25,299.64,7491.0
+1561,2024-05-17,141,Yoga Studio 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,51,360.1,18365.100000000002
+1562,2024-11-01,114,Vegan Market 2,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,58,13.78,799.24
+1563,2024-04-22,102,Fit Food 7,Antalya,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,25,135.45,3386.2499999999995
+1564,2024-09-12,141,Yoga Studio 10,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,93,418.76,38944.68
+1565,2024-08-15,138,Energy Gym 9,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,3,426.76,1280.28
+1566,2024-04-30,138,Energy Gym 9,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,24,210.17,5044.08
+1567,2024-07-29,111,Muscle Beach 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,52,100.5,5226.0
+1568,2024-07-24,102,Fit Food 7,Antalya,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,7,433.57,3034.99
+1569,2024-10-11,127,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,21,206.08,4327.68
+1570,2024-07-10,103,Cardio King 8,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,34,81.88,2783.92
+1571,2024-03-24,113,Iron Works 8,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,87,122.74,10678.38
+1572,2024-02-16,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,50g,Supplement,23,272.71,6272.33
+1573,2024-05-30,142,Energy Gym 2,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,61,76.74,4681.139999999999
+1574,2024-07-27,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,78,343.21,26770.379999999997
+1575,2024-06-27,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,70,48.89,3422.3
+1576,2024-10-18,107,HealthyLife 2,Antalya,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,41,246.96,10125.36
+1577,2024-05-02,123,Vegan Market 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,91,453.54,41272.14
+1578,2024-03-18,101,Fit Food 5,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,52,176.21,9162.92
+1579,2024-07-05,123,Vegan Market 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,77,279.16,21495.320000000003
+1580,2024-03-29,136,Energy Gym 8,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,19,77.21,1466.9899999999998
+1581,2024-01-19,147,Vegan Market 5,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,28,496.76,13909.279999999999
+1582,2024-12-27,104,Vegan Market 6,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,36,60.62,2182.3199999999997
+1583,2024-12-23,103,Cardio King 8,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,51,239.74,12226.74
+1584,2024-01-15,119,HealthyLife 1,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,74,446.89,33069.86
+1585,2024-12-29,141,Yoga Studio 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,66,171.5,11319.0
+1586,2024-06-14,130,Fit Food 10,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,56,411.43,23040.08
+1587,2024-03-19,128,Muscle Beach 1,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,17,326.95,5558.15
+1588,2024-01-02,132,Iron Works 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,73,10.4,759.2
+1589,2024-01-20,124,HealthyLife 3,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,42,167.26,7024.92
+1590,2024-10-27,999,Unknown Customer,Unknown City,,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,38,15.02,570.76
+1591,2024-11-01,148,Power Up 10,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,91,249.41,22696.31
+1592,2024-06-01,111,Muscle Beach 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,18,301.72,5430.960000000001
+1593,2024-04-02,125,Vegan Market 7,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,60,394.67,23680.2
+1594,2024-08-31,149,HealthyLife 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,83,460.09,38187.47
+1595,2024-02-18,129,Cardio King 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,61,491.49,29980.89
+1596,2024-09-02,117,Power Up 4,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,45,234.33,10544.85
+1597,2024-03-27,135,CrossFit Zone 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,42,23.56,989.52
+1598,2024-05-10,126,Fit Food 7,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,87,42.21,3672.27
+1599,2024-04-08,133,Yoga Studio 10,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,96,125.78,12074.880000000001
+1600,2024-06-29,114,Vegan Market 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,99,416.55,41238.450000000004
+1601,2024-08-15,103,Cardio King 8,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,84,357.84,30058.559999999998
+1602,2024-03-28,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,31,122.96,3811.7599999999998
+1603,2024-06-27,129,Cardio King 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,23,378.18,8698.14
+1604,2024-08-24,128,Muscle Beach 1,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,78,255.57,19934.46
+1605,2024-07-22,106,Fit Food 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,56,301.37,16876.72
+1606,2024-10-26,118,HealthyLife 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,63,194.95,12281.849999999999
+1607,2024-03-07,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,69,462.19,31891.11
+1608,2024-01-20,149,HealthyLife 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,9,182.51,1642.59
+1609,2024-02-11,115,Energy Gym 9,Bursa,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,48,194.26,9324.48
+1610,2024-02-13,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,1,262.37,262.37
+1611,2024-02-04,132,Iron Works 9,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,4,294.96,1179.84
+1612,2024-03-27,132,Iron Works 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,92,184.13,16939.96
+1613,2024-11-17,121,Fit Food 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,79,22.99,1816.2099999999998
+1614,2024-07-31,145,Vegan Market 5,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,78,388.04,30267.120000000003
+1615,2024-05-19,134,Muscle Beach 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,54,404.5,21843.0
+1616,2024-03-09,122,Cardio King 4,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,88,258.16,22718.08
+1617,2024-01-25,126,Fit Food 7,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,96,248.77,23881.920000000002
+1618,2024-02-06,120,HealthyLife 7,Bursa,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,31,319.56,9906.36
+1619,2024-11-03,120,HealthyLife 7,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,35,349.16,12220.6
+1620,2024-12-21,126,Fit Food 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,91,152.33,13862.03
+1621,2024-06-03,140,Yoga Studio 2,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,95,270.98,25743.100000000002
+1622,2024-01-09,146,Vegan Market 9,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,80,290.32,23225.6
+1623,2024-07-19,143,Power Up 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,89,49.0,4361.0
+1624,2024-09-30,120,HealthyLife 7,Bursa,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,75,329.15,24686.25
+1625,2024-05-27,144,Yoga Studio 4,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,39,104.95,4093.05
+1626,2024-08-11,146,Vegan Market 9,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,70,417.1,29197.0
+1627,2024-07-28,150,Power Up 7,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,63,147.31,9280.53
+1628,2024-02-29,124,HealthyLife 3,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,46,82.83,3810.18
+1629,2024-11-14,139,Iron Works 1,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,15,40.19,602.8499999999999
+1630,2024-08-27,149,HealthyLife 3,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,18,144.14,2594.5199999999995
+1631,2024-09-05,104,Vegan Market 6,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,25,229.79,5744.75
+1632,2024-05-02,136,Energy Gym 8,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,96,430.61,41338.56
+1633,2024-08-13,113,Iron Works 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,99,265.04,26238.960000000003
+1634,2024-07-17,139,Iron Works 1,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,14,126.73,1774.22
+1635,2024-06-12,120,HealthyLife 7,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,97,357.57,34684.29
+1636,2024-01-21,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,77,381.57,29380.89
+1637,2024-05-02,119,HealthyLife 1,Bursa,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,60,54.32,3259.2
+1638,2024-07-14,128,Muscle Beach 1,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,11,319.88,3518.68
+1639,2024-09-03,101,Fit Food 5,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,78,366.0,28548.0
+1640,2024-11-04,126,Fit Food 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,46,38.26,1759.9599999999998
+1641,2024-04-16,143,Power Up 9,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,45,199.97,8998.65
+1642,2024-07-19,115,Energy Gym 9,Bursa,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,5,441.12,2205.6
+1643,2024-01-30,149,HealthyLife 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,17,148.76,2528.92
+1644,2024-05-15,101,Fit Food 5,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,50,292.15,14607.499999999998
+1645,2024-08-11,139,Iron Works 1,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,33,449.3,14826.9
+1646,2024-05-21,146,Vegan Market 9,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,99,271.31,26859.69
+1647,2024-05-24,112,Energy Gym 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,20,99.65,1993.0
+1648,2024-08-06,118,HealthyLife 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,3,392.56,1177.68
+1649,2024-01-26,113,Iron Works 8,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,49,308.04,15093.960000000001
+1650,2024-09-30,127,Yoga Studio 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,46,333.55,15343.300000000001
+1651,2024-06-23,118,HealthyLife 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,41,216.25,8866.25
+1652,2024-07-20,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,24,353.78,8490.72
+1653,2024-09-06,126,Fit Food 7,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,16,71.67,1146.72
+1654,2024-03-25,140,Yoga Studio 2,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,61,263.61,16080.210000000001
+1655,2024-08-21,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,99,424.63,42038.37
+1656,2024-11-03,107,HealthyLife 2,Antalya,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,21,38.86,816.06
+1657,2024-06-29,103,Cardio King 8,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,90,302.14,27192.6
+1658,2024-05-05,135,CrossFit Zone 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,45,45.89,2065.05
+1659,2024-06-17,148,Power Up 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,57,94.23,5371.110000000001
+1660,2024-02-02,109,CrossFit Zone 7,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,13,116.29,1511.77
+1661,2024-05-31,130,Fit Food 10,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,79,18.46,1458.3400000000001
+1662,2024-03-24,116,Energy Gym 6,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,26,333.41,8668.66
+1663,2024-06-30,138,Energy Gym 9,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,88,284.53,25038.64
+1664,2024-03-15,132,Iron Works 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,65,360.92,23459.8
+1665,2024-09-07,122,Cardio King 4,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,39,86.94,3390.66
+1666,2024-11-14,127,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,46,145.76,6704.959999999999
+1667,2024-03-14,142,Energy Gym 2,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,92,250.06,23005.52
+1668,2024-02-24,122,Cardio King 4,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,66,128.56,8484.960000000001
+1669,2024-10-12,102,Fit Food 7,Antalya,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,54,170.84,9225.36
+1670,2024-10-31,145,Vegan Market 5,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,68,66.77,4540.36
+1671,2024-11-27,120,HealthyLife 7,Bursa,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,23,344.48,7923.040000000001
+1672,2024-08-24,118,HealthyLife 9,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,80,112.23,8978.4
+1673,2024-06-15,103,Cardio King 8,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,19,448.49,8521.31
+1674,2024-09-20,134,Muscle Beach 2,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,15,252.42,3786.2999999999997
+1675,2024-07-26,133,Yoga Studio 10,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,63,100.57,6335.91
+1676,2024-12-16,117,Power Up 4,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,42,403.46,16945.32
+1677,2024-06-26,104,Vegan Market 6,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,18,306.6,5518.8
+1678,2024-11-22,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,50g,Supplement,18,212.0,3816.0
+1679,2024-04-23,117,Power Up 4,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,48,158.33,7599.84
+1680,2024-12-30,137,Energy Gym 1,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,51,153.3,7818.3
+1681,2024-11-19,121,Fit Food 2,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,19,431.06,8190.14
+1682,2024-02-15,145,Vegan Market 5,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,84,242.21,20345.64
+1683,2024-10-27,127,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,61,100.76,6146.360000000001
+1684,2024-10-14,133,Yoga Studio 10,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,64,141.23,9038.72
+1685,2024-01-22,149,HealthyLife 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,94,482.92,45394.48
+1686,2024-08-10,131,Iron Works 1,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,28,59.06,1653.68
+1687,2024-11-26,128,Muscle Beach 1,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,81,293.7,23789.7
+1688,2024-12-27,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,68,39.72,2700.96
+1689,2024-09-25,130,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,84,35.4,2973.6
+1690,2024-07-02,128,Muscle Beach 1,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,21,299.58,6291.179999999999
+1691,2024-09-01,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,83,164.1,13620.3
+1692,2024-02-04,141,Yoga Studio 10,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,13,360.91,4691.83
+1693,2024-01-19,114,Vegan Market 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,28,379.49,10625.720000000001
+1694,2024-07-19,118,HealthyLife 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,32,26.11,835.52
+1695,2024-08-05,130,Fit Food 10,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,18,362.72,6528.960000000001
+1696,2024-08-16,142,Energy Gym 2,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,79,454.19,35881.01
+1697,2024-01-29,137,Energy Gym 1,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,54,437.53,23626.62
+1698,2024-04-17,137,Energy Gym 1,Antalya,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,92,483.84,44513.28
+1699,2024-11-09,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,250ml,Supplement,54,46.01,2484.54
+1700,2024-09-07,141,Yoga Studio 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,70,66.0,4620.0
+1701,2024-12-23,144,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,29,64.97,1884.1299999999999
+1702,2024-10-01,143,Power Up 9,Istanbul,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,23,482.96,11108.08
+1703,2024-04-18,147,Vegan Market 5,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,68,492.25,33473.0
+1704,2024-04-28,103,Cardio King 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,56,411.52,23045.12
+1705,2024-01-07,120,HealthyLife 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,62,315.54,19563.48
+1706,2024-02-28,141,Yoga Studio 10,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,55,276.0,15180.0
+1707,2024-06-18,116,Energy Gym 6,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,63,55.81,3516.03
+1708,2024-11-06,124,HealthyLife 3,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,58,312.42,18120.36
+1709,2024-01-08,124,HealthyLife 3,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,52,13.94,724.88
+1710,2024-07-25,999,Unknown Customer,Unknown City,,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,87,190.91,16609.17
+1711,2024-01-22,120,HealthyLife 7,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,17,121.96,2073.3199999999997
+1712,2024-08-19,128,Muscle Beach 1,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,68,62.42,4244.56
+1713,2024-09-18,125,Vegan Market 7,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,24,474.19,11380.56
+1714,2024-02-08,142,Energy Gym 2,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,32,396.65,12692.8
+1715,2024-10-13,142,Energy Gym 2,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,96,129.36,12418.560000000001
+1716,2024-07-12,101,Fit Food 5,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,99,269.51,26681.489999999998
+1717,2024-08-14,132,Iron Works 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,73,407.2,29725.6
+1718,2024-09-09,108,Yoga Studio 6,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,71,171.44,12172.24
+1719,2024-07-09,139,Iron Works 1,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,33,405.77,13390.41
+1720,2024-06-11,128,Muscle Beach 1,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,28,499.9,13997.199999999999
+1721,2024-12-14,133,Yoga Studio 10,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,45,99.97,4498.65
+1722,2024-11-01,134,Muscle Beach 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,80,124.53,9962.4
+1723,2024-08-07,137,Energy Gym 1,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,81,387.4,31379.399999999998
+1724,2024-02-06,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,49,458.55,22468.95
+1725,2024-08-08,124,HealthyLife 3,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,54,493.47,26647.38
+1726,2024-03-17,132,Iron Works 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,35,384.65,13462.75
+1727,2024-01-15,150,Power Up 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,71,71.85,5101.349999999999
+1728,2024-04-10,135,CrossFit Zone 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,6,402.6,2415.6000000000004
+1729,2024-09-07,116,Energy Gym 6,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,85,113.43,9641.550000000001
+1730,2024-09-19,139,Iron Works 1,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,65,119.55,7770.75
+1731,2024-11-29,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,28,142.78,3997.84
+1732,2024-04-28,128,Muscle Beach 1,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,1,55.14,55.14
+1733,2024-10-20,135,CrossFit Zone 10,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,36,153.51,5526.36
+1734,2024-01-22,132,Iron Works 9,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,40,318.29,12731.6
+1735,2024-11-27,108,Yoga Studio 6,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,21,250.61,5262.81
+1736,2024-05-12,101,Fit Food 5,Izmir,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,6,403.52,2421.12
+1737,2024-03-07,110,HealthyLife 7,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,35,300.89,10531.15
+1738,2024-05-10,137,Energy Gym 1,Antalya,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,81,443.25,35903.25
+1739,2024-11-11,118,HealthyLife 9,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,26,136.19,3540.94
+1740,2024-04-04,135,CrossFit Zone 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,9,151.73,1365.57
+1741,2024-02-24,111,Muscle Beach 3,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,62,464.19,28779.78
+1742,2024-05-12,105,CrossFit Zone 9,Bursa,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,72,396.05,28515.600000000002
+1743,2024-01-19,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,50g,Supplement,43,420.45,18079.35
+1744,2024-09-17,130,Fit Food 10,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,30,413.92,12417.6
+1745,2024-05-21,117,Power Up 4,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,88,71.83,6321.04
+1746,2024-06-06,101,Fit Food 5,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,23,334.31,7689.13
+1747,2024-02-15,111,Muscle Beach 3,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,1,66.85,66.85
+1748,2024-11-20,115,Energy Gym 9,Bursa,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,81,256.9,20808.899999999998
+1749,2024-08-12,120,HealthyLife 7,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,89,29.37,2613.9300000000003
+1750,2024-07-02,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,100g,Snack,76,21.6,1641.6000000000001
+1751,2024-04-09,111,Muscle Beach 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,2,163.99,327.98
+1752,2024-07-26,136,Energy Gym 8,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,68,431.98,29374.64
+1753,2024-07-06,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,28,75.04,2101.1200000000003
+1754,2024-03-21,105,CrossFit Zone 9,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,69,481.88,33249.72
+1755,2024-02-14,150,Power Up 7,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,48,335.87,16121.76
+1756,2024-07-03,110,HealthyLife 7,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,63,307.79,19390.77
+1757,2024-08-11,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,69,15.32,1057.08
+1758,2024-11-20,999,Unknown Customer,Unknown City,,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,80,161.44,12915.2
+1759,2024-07-28,142,Energy Gym 2,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,24,308.6,7406.400000000001
+1760,2024-06-21,129,Cardio King 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,50,324.1,16205.000000000002
+1761,2024-11-02,101,Fit Food 5,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,55,262.05,14412.75
+1762,2024-09-11,102,Fit Food 7,Antalya,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,74,37.62,2783.8799999999997
+1763,2024-12-09,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,41,390.99,16030.59
+1764,2024-09-11,150,Power Up 7,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,43,340.67,14648.810000000001
+1765,2024-02-03,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,81,314.34,25461.539999999997
+1766,2024-04-02,141,Yoga Studio 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,63,177.22,11164.86
+1767,2024-06-05,150,Power Up 7,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,24,361.17,8668.08
+1768,2024-11-06,148,Power Up 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,11,127.35,1400.85
+1769,2024-05-30,138,Energy Gym 9,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,74,348.71,25804.539999999997
+1770,2024-01-28,146,Vegan Market 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,12,368.7,4424.4
+1771,2024-10-14,116,Energy Gym 6,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,92,120.38,11074.96
+1772,2024-07-04,134,Muscle Beach 2,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,41,383.49,15723.09
+1773,2024-04-15,104,Vegan Market 6,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,50,88.83,4441.5
+1774,2024-08-24,106,Fit Food 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,19,423.04,8037.76
+1775,2024-11-24,131,Iron Works 1,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,32,146.23,4679.36
+1776,2024-08-11,129,Cardio King 4,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,66,365.16,24100.56
+1777,2024-09-19,120,HealthyLife 7,Bursa,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,81,493.98,40012.380000000005
+1778,2024-11-14,115,Energy Gym 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,91,170.55,15520.050000000001
+1779,2024-07-27,149,HealthyLife 3,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,86,178.24,15328.640000000001
+1780,2024-10-29,131,Iron Works 1,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,74,434.59,32159.66
+1781,2024-08-22,104,Vegan Market 6,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,35,495.6,17346.0
+1782,2024-07-02,135,CrossFit Zone 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,3,38.75,116.25
+1783,2024-01-11,132,Iron Works 9,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,75,417.83,31337.25
+1784,2024-08-02,105,CrossFit Zone 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,2,171.56,343.12
+1785,2024-02-11,124,HealthyLife 3,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,17,193.92,3296.64
+1786,2024-07-21,139,Iron Works 1,Ankara,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,98,396.3,38837.4
+1787,2024-08-06,112,Energy Gym 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,82,69.8,5723.599999999999
+1788,2024-09-30,121,Fit Food 2,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,98,221.73,21729.539999999997
+1789,2024-08-06,132,Iron Works 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,49,429.56,21048.44
+1790,2024-07-10,138,Energy Gym 9,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,40,278.27,11130.8
+1791,2024-07-19,148,Power Up 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,22,458.37,10084.14
+1792,2024-11-08,101,Fit Food 5,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,93,85.98,7996.14
+1793,2024-07-13,143,Power Up 9,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,36,116.77,4203.72
+1794,2024-05-23,101,Fit Food 5,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,77,328.99,25332.23
+1795,2024-07-08,105,CrossFit Zone 9,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,79,101.33,8005.07
+1796,2024-11-21,132,Iron Works 9,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,71,39.51,2805.21
+1797,2024-12-03,102,Fit Food 7,Antalya,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,42,234.21,9836.82
+1798,2024-04-08,127,Yoga Studio 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,21,157.77,3313.17
+1799,2024-01-26,135,CrossFit Zone 10,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,76,72.72,5526.72
+1800,2024-03-30,108,Yoga Studio 6,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,42,341.46,14341.32
+1801,2024-08-22,144,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,58,55.67,3228.86
+1802,2024-11-05,149,HealthyLife 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,98,88.41,8664.18
+1803,2024-10-19,118,HealthyLife 9,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,10,163.7,1637.0
+1804,2024-02-12,150,Power Up 7,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,45,237.54,10689.3
+1805,2024-02-19,144,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,49,205.85,10086.65
+1806,2024-05-19,132,Iron Works 9,Izmir,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,38,18.14,689.32
+1807,2024-03-23,149,HealthyLife 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,83,58.73,4874.59
+1808,2024-10-04,143,Power Up 9,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,82,289.21,23715.219999999998
+1809,2024-12-14,102,Fit Food 7,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,43,51.71,2223.53
+1810,2024-08-13,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,100g,Snack,17,68.09,1157.53
+1811,2024-09-07,113,Iron Works 8,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,54,388.35,20970.9
+1812,2024-05-25,137,Energy Gym 1,Antalya,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,29,366.89,10639.81
+1813,2024-05-31,142,Energy Gym 2,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,76,316.06,24020.56
+1814,2024-04-17,140,Yoga Studio 2,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,39,187.51,7312.889999999999
+1815,2024-03-06,133,Yoga Studio 10,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,13,295.21,3837.7299999999996
+1816,2024-02-10,117,Power Up 4,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,68,198.24,13480.32
+1817,2024-07-20,101,Fit Food 5,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,23,392.85,9035.550000000001
+1818,2024-06-11,118,HealthyLife 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,39,154.55,6027.450000000001
+1819,2024-10-19,113,Iron Works 8,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,7,125.11,875.77
+1820,2024-10-05,115,Energy Gym 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,89,211.92,18860.879999999997
+1821,2024-01-21,115,Energy Gym 9,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,52,396.83,20635.16
+1822,2024-12-11,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,100g,Snack,75,343.2,25740.0
+1823,2024-10-12,144,Yoga Studio 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,75,330.36,24777.0
+1824,2024-01-14,143,Power Up 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,26,486.35,12645.1
+1825,2024-08-06,129,Cardio King 4,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,27,419.95,11338.65
+1826,2024-02-03,147,Vegan Market 5,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,38,479.79,18232.02
+1827,2024-06-14,128,Muscle Beach 1,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,86,291.75,25090.5
+1828,2024-06-24,144,Yoga Studio 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,73,127.53,9309.69
+1829,2024-08-03,111,Muscle Beach 3,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,68,110.3,7500.4
+1830,2024-01-26,139,Iron Works 1,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,24,411.4,9873.599999999999
+1831,2024-07-03,149,HealthyLife 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,19,96.57,1834.83
+1832,2024-11-22,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,50g,Supplement,30,378.16,11344.800000000001
+1833,2024-08-26,149,HealthyLife 3,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,55,401.77,22097.35
+1834,2024-11-29,111,Muscle Beach 3,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,79,72.16,5700.639999999999
+1835,2024-08-29,106,Fit Food 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,45,488.94,22002.3
+1836,2024-02-24,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,8,138.19,1105.52
+1837,2024-10-08,121,Fit Food 2,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,93,446.9,41561.7
+1838,2024-06-26,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,100g,Snack,59,60.89,3592.51
+1839,2024-03-01,128,Muscle Beach 1,Izmir,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,16,455.7,7291.2
+1840,2024-04-13,145,Vegan Market 5,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,68,241.69,16434.92
+1841,2024-08-04,126,Fit Food 7,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,95,408.54,38811.3
+1842,2024-05-29,149,HealthyLife 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,50,218.61,10930.5
+1843,2024-08-28,144,Yoga Studio 4,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,44,362.42,15946.480000000001
+1844,2024-01-08,115,Energy Gym 9,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,43,238.0,10234.0
+1845,2024-01-17,137,Energy Gym 1,Antalya,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,48,84.46,4054.08
+1846,2024-01-02,108,Yoga Studio 6,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,90,53.3,4797.0
+1847,2024-03-01,114,Vegan Market 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,11,97.09,1067.99
+1848,2024-02-12,147,Vegan Market 5,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,18,328.89,5920.0199999999995
+1849,2024-09-14,132,Iron Works 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,17,399.37,6789.29
+1850,2024-06-16,139,Iron Works 1,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,51,66.69,3401.19
+1851,2024-08-23,131,Iron Works 1,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,70,432.05,30243.5
+1852,2024-07-10,126,Fit Food 7,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,50,184.59,9229.5
+1853,2024-06-29,134,Muscle Beach 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,29,190.03,5510.87
+1854,2024-09-01,127,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,34,186.43,6338.62
+1855,2024-02-28,117,Power Up 4,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,78,395.99,30887.22
+1856,2024-04-29,105,CrossFit Zone 9,Bursa,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,24,37.26,894.24
+1857,2024-10-09,137,Energy Gym 1,Antalya,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,12,225.07,2700.84
+1858,2024-11-26,145,Vegan Market 5,Istanbul,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,43,496.71,21358.53
+1859,2024-07-05,110,HealthyLife 7,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,16,209.7,3355.2
+1860,2024-05-14,135,CrossFit Zone 10,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,39,133.28,5197.92
+1861,2024-02-12,136,Energy Gym 8,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,69,312.3,21548.7
+1862,2024-06-11,119,HealthyLife 1,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,82,336.06,27556.920000000002
+1863,2024-04-22,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,75,26.91,2018.25
+1864,2024-02-05,121,Fit Food 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,48,127.62,6125.76
+1865,2024-03-25,116,Energy Gym 6,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,36,184.86,6654.960000000001
+1866,2024-02-19,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,19,356.22,6768.18
+1867,2024-04-20,104,Vegan Market 6,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,42,197.88,8310.96
+1868,2024-03-14,141,Yoga Studio 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,58,273.96,15889.679999999998
+1869,2024-06-16,119,HealthyLife 1,Bursa,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,72,232.61,16747.920000000002
+1870,2024-08-19,145,Vegan Market 5,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,27,67.17,1813.5900000000001
+1871,2024-11-07,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,78,311.65,24308.699999999997
+1872,2024-06-27,106,Fit Food 10,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,24,405.56,9733.44
+1873,2024-04-20,111,Muscle Beach 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,24,259.87,6236.88
+1874,2024-06-22,119,HealthyLife 1,Bursa,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,30,125.38,3761.3999999999996
+1875,2024-05-15,150,Power Up 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,14,31.57,441.98
+1876,2024-05-17,999,Unknown Customer,Unknown City,,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,5,357.22,1786.1000000000001
+1877,2024-06-25,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,66,472.05,31155.3
+1878,2024-07-28,107,HealthyLife 2,Antalya,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,61,473.58,28888.379999999997
+1879,2024-07-04,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,84,107.38,9019.92
+1880,2024-06-10,101,Fit Food 5,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,81,458.23,37116.630000000005
+1881,2024-03-24,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,5,454.12,2270.6
+1882,2024-05-06,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,65,395.18,25686.7
+1883,2024-09-07,131,Iron Works 1,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,99,202.88,20085.12
+1884,2024-03-18,133,Yoga Studio 10,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,95,498.54,47361.3
+1885,2024-08-28,133,Yoga Studio 10,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,69,146.96,10140.24
+1886,2024-03-02,130,Fit Food 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,21,396.7,8330.699999999999
+1887,2024-06-14,130,Fit Food 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,24,174.11,4178.64
+1888,2024-08-18,129,Cardio King 4,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,14,386.09,5405.259999999999
+1889,2024-05-19,138,Energy Gym 9,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,18,157.69,2838.42
+1890,2024-01-18,999,Unknown Customer,Unknown City,,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,25,113.69,2842.25
+1891,2024-08-20,136,Energy Gym 8,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,83,179.35,14886.05
+1892,2024-12-15,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,36,409.67,14748.12
+1893,2024-03-07,146,Vegan Market 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,49,321.3,15743.7
+1894,2024-04-28,136,Energy Gym 8,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,76,496.1,37703.6
+1895,2024-02-11,120,HealthyLife 7,Bursa,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,48,232.59,11164.32
+1896,2024-01-05,122,Cardio King 4,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,57,211.23,12040.109999999999
+1897,2024-11-05,119,HealthyLife 1,Bursa,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,82,110.73,9079.86
+1898,2024-01-24,137,Energy Gym 1,Antalya,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,10,415.23,4152.3
+1899,2024-10-03,122,Cardio King 4,Izmir,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,54,126.2,6814.8
+1900,2024-07-17,142,Energy Gym 2,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,8,215.42,1723.36
+1901,2024-03-02,117,Power Up 4,Ankara,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,55,336.12,18486.6
+1902,2024-04-19,145,Vegan Market 5,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,83,263.0,21829.0
+1903,2024-11-14,125,Vegan Market 7,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,49,479.32,23486.68
+1904,2024-12-24,146,Vegan Market 9,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,85,458.89,39005.65
+1905,2024-04-05,135,CrossFit Zone 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,67,218.94,14668.98
+1906,2024-06-30,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,64,60.04,3842.56
+1907,2024-06-25,139,Iron Works 1,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,4,185.28,741.12
+1908,2024-10-25,121,Fit Food 2,Izmir,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,17,58.06,987.02
+1909,2024-06-25,106,Fit Food 10,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,34,422.91,14378.94
+1910,2024-12-05,138,Energy Gym 9,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,75,14.49,1086.75
+1911,2024-07-15,147,Vegan Market 5,Ankara,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,100,169.21,16921.0
+1912,2024-10-21,148,Power Up 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,5,132.64,663.1999999999999
+1913,2024-08-11,125,Vegan Market 7,Izmir,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,100,334.61,33461.0
+1914,2024-03-29,103,Cardio King 8,Unknown,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,11,395.53,4350.83
+1915,2024-04-18,129,Cardio King 4,Unknown,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,44,42.86,1885.84
+1916,2024-03-18,999,Unknown Customer,Unknown City,,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,85,88.25,7501.25
+1917,2024-10-08,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,57,285.55,16276.35
+1918,2024-11-13,127,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,93,375.85,34954.05
+1919,2024-11-07,123,Vegan Market 7,Bursa,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,83,382.42,31740.86
+1920,2024-11-13,112,Energy Gym 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,87,35.21,3063.27
+1921,2024-02-15,123,Vegan Market 7,Bursa,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,34,108.71,3696.14
+1922,2024-12-04,135,CrossFit Zone 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,20,21.89,437.8
+1923,2024-07-16,136,Energy Gym 8,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,77,350.01,26950.77
+1924,2024-07-27,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,25,367.44,9186.0
+1925,2024-03-19,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,500ml,Supplement,2,190.1,380.2
+1926,2024-11-18,145,Vegan Market 5,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,58,16.23,941.34
+1927,2024-10-04,102,Fit Food 7,Antalya,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,43,416.18,17895.74
+1928,2024-09-28,107,HealthyLife 2,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,79,416.19,32879.01
+1929,2024-07-19,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,72,32.31,2326.32
+1930,2024-08-07,106,Fit Food 10,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,25,163.41,4085.25
+1931,2024-04-20,138,Energy Gym 9,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,8,70.14,561.12
+1932,2024-06-07,141,Yoga Studio 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,47,432.1,20308.7
+1933,2024-05-06,140,Yoga Studio 2,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,89,104.06,9261.34
+1934,2024-08-25,125,Vegan Market 7,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,84,111.61,9375.24
+1935,2024-09-25,107,HealthyLife 2,Antalya,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,5,257.15,1285.75
+1936,2024-07-13,133,Yoga Studio 10,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,83,431.18,35787.94
+1937,2024-10-25,137,Energy Gym 1,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,62,438.85,27208.7
+1938,2024-11-25,136,Energy Gym 8,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,34,181.27,6163.18
+1939,2024-11-17,149,HealthyLife 3,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,51,242.19,12351.69
+1940,2024-03-25,148,Power Up 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,83,497.96,41330.68
+1941,2024-03-19,130,Fit Food 10,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,98,96.81,9487.380000000001
+1942,2024-11-14,138,Energy Gym 9,Ankara,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,20,434.88,8697.6
+1943,2024-07-28,147,Vegan Market 5,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,36,369.84,13314.24
+1944,2024-02-15,139,Iron Works 1,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,23,437.2,10055.6
+1945,2024-12-24,145,Vegan Market 5,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,21,446.74,9381.54
+1946,2024-03-17,113,Iron Works 8,Unknown,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,4,249.0,996.0
+1947,2024-09-29,108,Yoga Studio 6,Izmir,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,30,56.13,1683.9
+1948,2024-05-21,146,Vegan Market 9,Istanbul,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,53,282.07,14949.71
+1949,2024-04-23,111,Muscle Beach 3,Istanbul,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,76,228.49,17365.24
+1950,2024-11-18,110,HealthyLife 7,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,92,88.21,8115.32
+1951,2024-06-03,120,HealthyLife 7,Bursa,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,80,182.23,14578.4
+1952,2024-10-17,119,HealthyLife 1,Bursa,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,88,43.27,3807.76
+1953,2024-08-14,104,Vegan Market 6,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,53,358.46,18998.379999999997
+1954,2024-07-15,147,Vegan Market 5,Ankara,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,95,123.78,11759.1
+1955,2024-12-15,113,Iron Works 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,52,130.03,6761.56
+1956,2024-03-13,107,HealthyLife 2,Antalya,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,69,369.84,25518.96
+1957,2024-08-24,109,CrossFit Zone 7,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,94,39.47,3710.18
+1958,2024-02-22,120,HealthyLife 7,Bursa,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,48,358.17,17192.16
+1959,2024-12-18,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,19,261.73,4972.870000000001
+1960,2024-04-12,118,HealthyLife 9,Izmir,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,68,481.45,32738.6
+1961,2024-03-13,108,Yoga Studio 6,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,44,36.58,1609.52
+1962,2024-02-14,103,Cardio King 8,Unknown,TR,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,55,437.97,24088.350000000002
+1963,2024-03-19,148,Power Up 10,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,62,273.36,16948.32
+1964,2024-11-20,109,CrossFit Zone 7,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,80,249.87,19989.6
+1965,2024-01-28,147,Vegan Market 5,Ankara,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,37,86.36,3195.32
+1966,2024-01-01,999,Unknown Customer,Unknown City,,31adc9243b8bc59d,Energy Drink,250ml,Supplement,70,409.51,28665.7
+1967,2024-04-23,126,Fit Food 7,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,44,483.48,21273.120000000003
+1968,2024-12-04,144,Yoga Studio 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,40,218.34,8733.6
+1969,2024-05-30,110,HealthyLife 7,Unknown,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,68,272.29,18515.72
+1970,2024-05-21,129,Cardio King 4,Unknown,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,85,365.26,31047.1
+1971,2024-11-11,122,Cardio King 4,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,62,345.37,21412.94
+1972,2024-11-14,124,HealthyLife 3,Ankara,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,80,35.35,2828.0
+1973,2024-07-18,139,Iron Works 1,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,28,365.7,10239.6
+1974,2024-12-10,130,Fit Food 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,93,110.54,10280.220000000001
+1975,2024-12-03,102,Fit Food 7,Antalya,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,29,483.34,14016.859999999999
+1976,2024-12-31,999,Unknown Customer,Unknown City,,7c9725ae1ecf2297,Oat Cookie Pack,Regular,Supplement,55,130.72,7189.6
+1977,2024-05-13,112,Energy Gym 10,Istanbul,TR,c18d52a01eaeb420,Protein Bar,50g,Supplement,77,499.75,38480.75
+1978,2024-08-09,142,Energy Gym 2,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,42,454.02,19068.84
+1979,2024-04-15,999,Unknown Customer,Unknown City,,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,64,213.16,13642.24
+1980,2024-05-24,132,Iron Works 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,56,341.68,19134.08
+1981,2024-11-14,136,Energy Gym 8,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,49,144.66,7088.34
+1982,2024-10-06,144,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,2kg,Snack,82,483.92,39681.44
+1983,2024-11-09,111,Muscle Beach 3,Istanbul,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,5,221.05,1105.25
+1984,2024-12-29,136,Energy Gym 8,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,56,378.86,21216.16
+1985,2024-06-17,150,Power Up 7,Ankara,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,70,166.32,11642.4
+1986,2024-07-12,138,Energy Gym 9,Ankara,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,58,11.79,683.8199999999999
+1987,2024-03-29,999,Unknown Customer,Unknown City,,c18d52a01eaeb420,Protein Bar,60g,Snack,22,95.99,2111.7799999999997
+1988,2024-02-24,146,Vegan Market 9,Istanbul,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,97,175.33,17007.010000000002
+1989,2024-07-29,106,Fit Food 10,Unknown,TR,3b873eefa1afbeec,Oat Cookie Single,Regular,Drink,88,280.16,24654.08
+1990,2024-09-06,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,53,133.14,7056.419999999999
+1991,2024-09-16,143,Power Up 9,Istanbul,TR,31adc9243b8bc59d,Energy Drink,500ml,Supplement,76,343.29,26090.04
+1992,2024-08-08,999,Unknown Customer,Unknown City,,4f5c11403f7e2f88,Whey Powder,1kg,Snack,65,114.16,7420.4
+1993,2024-01-10,103,Cardio King 8,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,65,451.22,29329.300000000003
+1994,2024-03-22,118,HealthyLife 9,Izmir,TR,c18d52a01eaeb420,Protein Bar,60g,Snack,92,489.29,45014.68
+1995,2024-01-03,112,Energy Gym 10,Istanbul,TR,31adc9243b8bc59d,Energy Drink,250ml,Supplement,31,332.29,10300.99
+1996,2024-03-06,137,Energy Gym 1,Antalya,TR,8332903679499e5d,Multivitamin 60 tabs,Regular,Drink,17,254.41,4324.97
+1997,2024-05-30,114,Vegan Market 2,Izmir,TR,c18d52a01eaeb420,Protein Bar,100g,Snack,23,333.66,7674.18
+1998,2024-09-19,144,Yoga Studio 4,Unknown,TR,4f5c11403f7e2f88,Whey Powder,500g,Snack,46,22.32,1026.72
+1999,2024-03-10,138,Energy Gym 9,Ankara,TR,4f5c11403f7e2f88,Whey Powder,1kg,Snack,23,238.35,5482.05
+2000,2024-07-25,118,HealthyLife 9,Izmir,TR,34158e25c8174cfb,Multivitamin 30 tabs,Regular,Snack,96,312.84,30032.64
